@@ -1,4 +1,4 @@
-# fitness-chatbot
+# Lift-E
 
 A chatbot that provides fitness-related answers, workout splits, and meal plans for bulking/cutting.
 
